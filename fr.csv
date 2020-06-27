@@ -20,7 +20,7 @@ CURRENT PAGE
     ">Page keywords",">Mots clés de la page"
     ">Page description",">Description de la page"
     "> Delete page","> Supprimer la page"
-    "return confirm\('Delete (.*?)\?'\)","return confirm('Supprimer $1?')"
+    "return confirm\('Delete (.*?)\?'\)","return confirm('Confirmer la suppression de : $1.')"
 
 
 MENU
@@ -37,9 +37,9 @@ FILES
 
 THEMES AND PLUGINS
     "> Check for updates","> Vérifier les mises à jour"
-    "return confirm\('Remove (.*?)\?'\)","return confirm('Supprimer $1?')"
+    "return confirm\('Remove (.*?)\?'\)","return confirm('Confirmer la suppression de : $1.')"
     ">Active",">Activé"
-    "return confirm\('Activate (.*?) theme\?'\)","return confirm('Confirmer l’activation de : $1?.')"
+    "return confirm\('Activate (.*?) theme\?'\)","return confirm('Confirmer l’activation de : $1.')"
     "> Activate","> Activer"
     "> More info","> Plus d’informations"
     "> Install","> Installer"
@@ -77,7 +77,7 @@ STATISTICS
     ">Pageviews last two weeks",">Pages consultées ces 2 dernières semaines"
     ">Sessions last two weeks",">Visites de ces 2 dernières semaines"
     ">Sessions",">Visites"
-    ">Pageviews",">Vues de pages"
+    ">Pageviews",">Pages vues"
 
 
 FOOTER
