@@ -1,6 +1,6 @@
 <p align="center"><img src="preview.jpg?v=3" /></p>
 <h1 align="center">language-fr</h1>
-<p align="center">French translation dedicated to WonderCMS & made by <a href="https://www.galixte.com" title="Galixte’s Projects">Galixte</a>.</p>
+<p align="center">French translation dedicated to WonderCMS (by Robert Isoski) & made by <a href="https://www.galixte.com" title="Galixte’s Projects">Galixte</a>.</p>
 
 <br><br>
 
